@@ -2,7 +2,9 @@
 
 The source files for the homepage for <https://logicpenguin.com>.
 
-I doubt anyone else will find this code useful at the moment, since it’s only an “under construction” page. In the future, who knows?
+The source files for Logic Penguin itself can be found here: <https://github.com/frabjous/logicpenguin>
+
+I doubt anyone else will find this code in this repository useful at the moment, since it’s only an “under construction” page. In the future, who knows?
 
 ## License
 
